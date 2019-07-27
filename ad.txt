@@ -14,4 +14,4 @@ lanzous.com##DIV.d:nth-child(3) > DIV:nth-child(5)
 lanzous.com##DIV.d:nth-child(3) > DIV:last-child
 bilibili.com###slide_ad
 lanzous.com###file > DIV:nth-child(5)
-360.cn##DIV.ntp-body __scale w1024:brandPaper hadDot
+360.cn##DIV.ntp-body.__scale.w1024:brandPaper.hadDot
