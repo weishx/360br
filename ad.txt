@@ -1,3 +1,5 @@
+[360浏览器广告 1.1]
+
 browser.360.cn##DIV.wrapper:nth-child(2)
 browser.360.cn##DIV.loadmore-wrapper:nth-child(3) > DIV.loadmore-container
 hao123.com###topbeWrapper
