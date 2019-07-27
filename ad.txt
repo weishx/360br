@@ -15,4 +15,5 @@ lanzous.com##DIV.d:nth-child(3) > DIV:last-child
 bilibili.com###slide_ad
 lanzous.com###file > DIV:nth-child(5)
 360.cn##DIV.brandPaper.hadDot
-browser.360.cn##DIV.brandPaper.hadDot
+browser.360.cn##brandPaper.hadDot
+dujin.org##logo
