@@ -16,4 +16,4 @@ bilibili.com###slide_ad
 lanzous.com###file > DIV:nth-child(5)
 360.cn##DIV.brandPaper hadDot
 browser.360.cn##DIV.brandPaper hadDot
-browser.360.cn
+browser.360.cn##DIV.waterMark
