@@ -1,0 +1,14 @@
+browser.360.cn##DIV.wrapper:nth-child(2)
+browser.360.cn##DIV.loadmore-wrapper:nth-child(3) > DIV.loadmore-container
+hao123.com###topbeWrapper
+hao123.com###topColumn > DIV.page-width > DIV.header__inner > DIV.header__item--fr.login-pan-mobile.joke-mail.header--r2:nth-child(2) > DIV.header__item.header__item--joke:first-child
+hao123.com###gameyixingTop > DIV.layout-main:nth-child(4) > DIV.g-ib.layout-right:nth-child(5)
+hao123.com###gameyixingTop > DIV.layout-main:nth-child(4) > DIV.g-ib.layout-left:last-child
+hao123.com###footer
+hao123.com###notice
+hao123.com###header > DIV.hotsearchCon:last-child
+dl.xunlei.com###iab
+lanzous.com##DIV.d:nth-child(3) > DIV:nth-child(5)
+lanzous.com##DIV.d:nth-child(3) > DIV:last-child
+bilibili.com###slide_ad
+lanzous.com###file > DIV:nth-child(5)
