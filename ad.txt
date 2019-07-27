@@ -17,3 +17,4 @@ lanzous.com###file > DIV:nth-child(5)
 360.cn##DIV.brandPaper.hadDot
 browser.360.cn##BODY.ntp-body __scale w1024:first-child > DIV.brandPaper.hadDot
 dujin.org##HEADER.header:first-child > DIV.container > DIV.logo:first-child
+http://p0.qhimg.com/t01e19bd30ead02b7e8.jpg$domain=360.cn
