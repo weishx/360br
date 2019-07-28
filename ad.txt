@@ -14,5 +14,6 @@ lanzous.com##DIV.d:nth-child(3) > DIV:nth-child(5)
 lanzous.com##DIV.d:nth-child(3) > DIV:last-child
 bilibili.com###slide_ad
 lanzous.com###file > DIV:nth-child(5)
-
+hao123.com##DIV.bottom-banner-link-wrapper:last-child
+hao123.com##DIV.bottom-banner-close-wrapper.bottom-banner-close-wrapperv2:nth-child(2)
 
