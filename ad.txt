@@ -17,3 +17,4 @@ lanzous.com###file > DIV:nth-child(5)
 hao123.com##DIV.bottom-banner-link-wrapper:last-child
 hao123.com##DIV.bottom-banner-close-wrapper.bottom-banner-close-wrapperv2:nth-child(2)
 hao123.com###gameyixingTop > DIV.layout-main:nth-child(4) > DIV.g-ib.layout-right:nth-child(6)
+lanzous.com##DIV.d:nth-child(3) > DIV:nth-child(4)
